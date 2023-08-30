@@ -1,0 +1,50 @@
+
+.btn-popular{
+    width: 22rem;
+    height: 4rem;
+    background-color: #05203c;
+    color: white;
+    border-radius: 10px;
+}
+
+.popular-btn{
+ display: flex;
+ justify-content: center;
+ padding-top: 3rem;
+
+}
+
+.popualr-img{
+    width: 80vw;
+    height: 60vh;
+}
+
+.popolar-img{
+    width: 3rem;
+}
+.popular-countries{
+    display: flex;
+
+}
+
+
+.popular-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 20rem;
+    height: 5rem;
+    margin-left: 2rem;
+    border-radius: 10px;
+    border: 2px solid white ;
+    box-shadow: 0 4px 14px 0 rgba(37,32,31,.25);
+}
+
+/* .popular{
+    display: flex;
+    justify-content: center;
+    padding-top: 3rem;
+    align-items: center;
+
+
+} */

@@ -1,0 +1,65 @@
+.logo{
+     width: 15rem;
+}
+
+.img{
+    width: 3rem;
+    border-radius: 50%;
+    margin-left: 1rem;
+}
+
+.hmbg{
+    width: 5rem;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #05203c;
+}
+
+.navbar-2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 10rem;
+    padding: 2rem;
+
+
+}
+
+button{
+    margin-left: 1rem;
+}
+
+.inp-section{
+    display: flex;
+    justify-content: center;
+    width: 15rem;
+    height: 6rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
