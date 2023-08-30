@@ -14,7 +14,7 @@
 
 .navbar{
     display: flex;
-    justify-content: space-between;
+    justify-content:space-around;
     align-items: center;
     background-color: #05203c;
 }
@@ -23,8 +23,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-right: 10rem;
-    padding: 2rem;
+    margin-right: -10rem;
+    padding: 1rem;
 
 
 }
@@ -38,6 +38,41 @@ button{
     justify-content: center;
     width: 15rem;
     height: 6rem;
+}
+
+.modal-btn{
+    position: relative;
+    background-color: aliceblue;
+    width: 3rem;
+    height: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 0.5rem;
+    border-radius: 30px;
+}
+
+.modals{
+    width: 13rem;
+    height: 15rem;
+    position: absolute;
+    background-color: aliceblue;
+    border-radius: 10px;
+    box-shadow: 0 0 0.1rem 0.3rem white;
+    right: 6%;
+}
+.modals div{
+    margin-top: 1rem;
+}
+
+
+.modal-open{
+    display: block;
+}
+
+
+.modal-none{
+    display: none;
 }
 
 
